@@ -2915,7 +2915,7 @@ function renderComments(_ref2, instance) {
       initHint.appendChild(initButton);
       errorBlock.appendChild(initHint);
     } else {
-      errorBlock.innerText = '';
+      errorBlock.innerText = error;
       //errorBlock.innerText = error;
     }
     container.appendChild(errorBlock);
