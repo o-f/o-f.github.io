@@ -2910,13 +2910,15 @@ function renderComments(_ref2, instance) {
           alert(e);
         });
       };
-      initButton.innerText = 'Initialize Comments';
+      initButton.innerText = '留言初始化';
+      //initButton.innerText = 'Initialize Comments';
       initHint.appendChild(initButton);
       errorBlock.appendChild(initHint);
     } else {
-      errorBlock.innerText = error;
+      errorBlock.innerText = '';
+      //errorBlock.innerText = error;
     }
-    //container.appendChild(errorBlock);
+    container.appendChild(errorBlock);
     //container.appendChild(errorBlock);
     return container;
   } else if (comments === undefined) {
