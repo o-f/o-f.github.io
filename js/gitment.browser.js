@@ -2876,7 +2876,7 @@ function renderHeader(_ref, instance) {
   issueLink.href = meta.html_url;
   issueLink.target = '_blank';
   issueLink.innerText = 'Issue Page';
-  container.appendChild(issueLink);
+  //container.appendChild(issueLink);
 
   return container;
 }
