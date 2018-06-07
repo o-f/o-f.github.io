@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hb.njuer.org/"/>
-  <updated>2018-06-07T14:40:14.647Z</updated>
+  <updated>2018-06-07T14:45:02.000Z</updated>
   <id>http://hb.njuer.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://hb.njuer.org/2018/06/14/2018.6.14_Cheng_Zhang/"/>
     <id>http://hb.njuer.org/2018/06/14/2018.6.14_Cheng_Zhang/</id>
     <published>2018-06-14T04:00:00.000Z</published>
-    <updated>2018-06-07T14:40:14.647Z</updated>
+    <updated>2018-06-07T14:45:02.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/98/da/83bb6add4810950344eb6870caa1/91476212-b49d-4dce-9bed-163be8243d81.jpg" alt=""></p>]]></content>
     
@@ -42,7 +42,7 @@
     <link href="http://hb.njuer.org/2018/06/14/2018.6.14_%E5%AD%99%E6%98%8E%E8%90%B1/"/>
     <id>http://hb.njuer.org/2018/06/14/2018.6.14_孙明萱/</id>
     <published>2018-06-14T04:00:00.000Z</published>
-    <updated>2018-06-07T14:40:12.687Z</updated>
+    <updated>2018-06-07T14:45:01.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/f3/64/64cb25e049999b9968d011283191/817664a0-c22f-4c60-9b4a-0ac7e19a24ae.jpg" alt=""></p>]]></content>
     
@@ -59,40 +59,19 @@
   </entry>
   
   <entry>
-    <title>2018.6.12_Prof.__Wenjing_Lou</title>
-    <link href="http://hb.njuer.org/2018/06/12/2018.6.12_Prof.__Wenjing_Lou/"/>
-    <id>http://hb.njuer.org/2018/06/12/2018.6.12_Prof.__Wenjing_Lou/</id>
+    <title>2018.6.12_Yan_Wang新修改6.6晚</title>
+    <link href="http://hb.njuer.org/2018/06/12/2018.6.12_Yan_Wang%E6%96%B0%E4%BF%AE%E6%94%B96.6%E6%99%9A/"/>
+    <id>http://hb.njuer.org/2018/06/12/2018.6.12_Yan_Wang新修改6.6晚/</id>
     <published>2018-06-12T04:00:00.000Z</published>
-    <updated>2018-06-07T14:40:19.432Z</updated>
+    <updated>2018-06-07T14:45:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/03/8c/35b6f77d414fa2e054ac889987c2/86163214-d924-4277-8b5e-19184aa03e10.jpg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/a2/5a/52200e2d44d7b183bd0c1a7951b2/624a976b-fc45-4168-8fc9-411e67cb8bcd.jpg" alt=""></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;http://keysoftlab.nju.edu.cn/_upload/article/images/03/8c/35b6f77d414fa2e054ac889987c2/86163214-d924-4277-8b5e-19184aa03e10.jpg
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2018.6.12_Prof.__Yanchao_Zhang</title>
-    <link href="http://hb.njuer.org/2018/06/12/2018.6.12_Prof.__Yanchao_Zhang/"/>
-    <id>http://hb.njuer.org/2018/06/12/2018.6.12_Prof.__Yanchao_Zhang/</id>
-    <published>2018-06-12T04:00:00.000Z</published>
-    <updated>2018-06-07T14:40:21.390Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/d6/37/59984ef4493f898dbf980f95855c/149d1b1c-a763-4a09-acfd-138e184e725a.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;http://keysoftlab.nju.edu.cn/_upload/article/images/d6/37/59984ef4493f898dbf980f95855c/149d1b1c-a763-4a09-acfd-138e184e725a.jpg
+        &lt;p&gt;&lt;img src=&quot;http://keysoftlab.nju.edu.cn/_upload/article/images/a2/5a/52200e2d44d7b183bd0c1a7951b2/624a976b-fc45-4168-8fc9-411e67cb8bcd.jpg
       
     
     </summary>
@@ -122,19 +101,40 @@
   </entry>
   
   <entry>
-    <title>2018.6.12_Yan_Wang新修改6.6晚</title>
-    <link href="http://hb.njuer.org/2018/06/12/2018.6.12_Yan_Wang%E6%96%B0%E4%BF%AE%E6%94%B96.6%E6%99%9A/"/>
-    <id>http://hb.njuer.org/2018/06/12/2018.6.12_Yan_Wang新修改6.6晚/</id>
+    <title>2018.6.12_Prof.__Wenjing_Lou</title>
+    <link href="http://hb.njuer.org/2018/06/12/2018.6.12_Prof.__Wenjing_Lou/"/>
+    <id>http://hb.njuer.org/2018/06/12/2018.6.12_Prof.__Wenjing_Lou/</id>
     <published>2018-06-12T04:00:00.000Z</published>
-    <updated>2018-06-07T14:40:17.040Z</updated>
+    <updated>2018-06-07T14:45:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/a2/5a/52200e2d44d7b183bd0c1a7951b2/624a976b-fc45-4168-8fc9-411e67cb8bcd.jpg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/03/8c/35b6f77d414fa2e054ac889987c2/86163214-d924-4277-8b5e-19184aa03e10.jpg" alt=""></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;http://keysoftlab.nju.edu.cn/_upload/article/images/a2/5a/52200e2d44d7b183bd0c1a7951b2/624a976b-fc45-4168-8fc9-411e67cb8bcd.jpg
+        &lt;p&gt;&lt;img src=&quot;http://keysoftlab.nju.edu.cn/_upload/article/images/03/8c/35b6f77d414fa2e054ac889987c2/86163214-d924-4277-8b5e-19184aa03e10.jpg
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018.6.12_Prof.__Yanchao_Zhang</title>
+    <link href="http://hb.njuer.org/2018/06/12/2018.6.12_Prof.__Yanchao_Zhang/"/>
+    <id>http://hb.njuer.org/2018/06/12/2018.6.12_Prof.__Yanchao_Zhang/</id>
+    <published>2018-06-12T04:00:00.000Z</published>
+    <updated>2018-06-07T14:45:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/d6/37/59984ef4493f898dbf980f95855c/149d1b1c-a763-4a09-acfd-138e184e725a.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://keysoftlab.nju.edu.cn/_upload/article/images/d6/37/59984ef4493f898dbf980f95855c/149d1b1c-a763-4a09-acfd-138e184e725a.jpg
       
     
     </summary>
@@ -169,7 +169,7 @@
     <link href="http://hb.njuer.org/2018/06/09/2018.6.9_%E9%BB%84%E6%B2%B3%E7%87%95/"/>
     <id>http://hb.njuer.org/2018/06/09/2018.6.9_黄河燕/</id>
     <published>2018-06-09T04:00:00.000Z</published>
-    <updated>2018-06-07T14:40:10.730Z</updated>
+    <updated>2018-06-07T14:45:01.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/71/1b/9ede6e744733a39a58c5492c4044/49f11aeb-4342-4f88-9e2d-e283e926e80e.jpg" alt=""></p>]]></content>
     
@@ -212,7 +212,7 @@
     <link href="http://hb.njuer.org/2018/06/07/%E3%80%90SKL%E9%9D%92%E5%B9%B4%E5%AD%A6%E8%80%85%E5%AD%A6%E6%9C%AF%E6%B2%99%E9%BE%99%E3%80%912018.6.7Guoqing_(Harry)_Xu/"/>
     <id>http://hb.njuer.org/2018/06/07/【SKL青年学者学术沙龙】2018.6.7Guoqing_(Harry)_Xu/</id>
     <published>2018-06-07T04:00:00.000Z</published>
-    <updated>2018-06-07T14:40:23.347Z</updated>
+    <updated>2018-06-07T14:45:02.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/80/b6/238ea50a473385d88f01018bf663/5a1e1d9c-d507-4abc-99a3-95094ecaeecb.jpg" alt=""></p>]]></content>
     
@@ -315,20 +315,19 @@
   </entry>
   
   <entry>
-    <title>2018.06.02中科院计算所</title>
-    <link href="http://hb.njuer.org/2018/06/02/2018.06.02%E4%B8%AD%E7%A7%91%E9%99%A2%E8%AE%A1%E7%AE%97%E6%89%80/"/>
-    <id>http://hb.njuer.org/2018/06/02/2018.06.02中科院计算所/</id>
+    <title>2018.06.02古琴</title>
+    <link href="http://hb.njuer.org/2018/06/02/2018.06.02%E5%8F%A4%E7%90%B4/"/>
+    <id>http://hb.njuer.org/2018/06/02/2018.06.02古琴/</id>
     <published>2018-06-02T04:00:00.000Z</published>
-    <updated>2018-06-02T00:55:01.000Z</updated>
+    <updated>2018-06-02T14:20:09.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/img/2018.06.02中科院计算所.jpg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/img/2018.06.02古琴1.JPG" alt=""><br><img src="/img/2018.06.02古琴2.JPG" alt=""><br><img src="/img/2018.06.02古琴3.JPG" alt=""><br><img src="/img/2018.06.02古琴.JPG" alt=""></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/img/2018.06.02中科院计算所.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
+        &lt;p&gt;&lt;img src=&quot;/img/2018.06.02古琴1.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/img/2018.06.02古琴2.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/img/2018.06.02古琴3.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;i
       
     
     </summary>
@@ -359,19 +358,20 @@
   </entry>
   
   <entry>
-    <title>2018.06.02古琴</title>
-    <link href="http://hb.njuer.org/2018/06/02/2018.06.02%E5%8F%A4%E7%90%B4/"/>
-    <id>http://hb.njuer.org/2018/06/02/2018.06.02古琴/</id>
+    <title>2018.06.02中科院计算所</title>
+    <link href="http://hb.njuer.org/2018/06/02/2018.06.02%E4%B8%AD%E7%A7%91%E9%99%A2%E8%AE%A1%E7%AE%97%E6%89%80/"/>
+    <id>http://hb.njuer.org/2018/06/02/2018.06.02中科院计算所/</id>
     <published>2018-06-02T04:00:00.000Z</published>
-    <updated>2018-06-02T14:20:09.000Z</updated>
+    <updated>2018-06-02T00:55:01.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/img/2018.06.02古琴1.JPG" alt=""><br><img src="/img/2018.06.02古琴2.JPG" alt=""><br><img src="/img/2018.06.02古琴3.JPG" alt=""><br><img src="/img/2018.06.02古琴.JPG" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/img/2018.06.02中科院计算所.jpg" alt=""></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/img/2018.06.02古琴1.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/img/2018.06.02古琴2.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/img/2018.06.02古琴3.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;i
+        &lt;p&gt;&lt;img src=&quot;/img/2018.06.02中科院计算所.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
       
     
     </summary>
@@ -428,7 +428,7 @@
     <link href="http://hb.njuer.org/2018/05/31/2018.5.31Feng_Qian%EF%BC%88%E6%B5%B7%E6%8A%A5%E5%86%B2%E5%8D%B0%EF%BC%89/"/>
     <id>http://hb.njuer.org/2018/05/31/2018.5.31Feng_Qian（海报冲印）/</id>
     <published>2018-05-31T04:00:00.000Z</published>
-    <updated>2018-06-07T14:40:29.212Z</updated>
+    <updated>2018-06-07T14:45:02.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://keysoftlab.nju.edu.cn/_upload/article/images/ea/03/acb1c8664ad5afda05ef0e250065/01b2234c-6a12-4205-96af-104df3611b93.jpg" alt=""></p>]]></content>
     
